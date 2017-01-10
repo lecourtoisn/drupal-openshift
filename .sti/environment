@@ -1,2 +1,3 @@
 ;PHP_INI_SCAN_DIR=environment
+PHPRC=environmenet/php.ini
 TEST_SOMETHING=SOMETHING
